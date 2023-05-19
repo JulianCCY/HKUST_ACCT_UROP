@@ -1,1 +1,1 @@
-# HKUST_ACCT_UROP
+# HKUST ACCT UROP Financial Entity Sentiment Analysis
